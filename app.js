@@ -103,7 +103,7 @@
 
 
 
-// Question no 12
+// // Question no 12
 // var snack = prompt ("Enter your favorite snack");
 // var age = prompt ("Enter your current Age");
 // var maximumAge = prompt("Enter When you will die");
